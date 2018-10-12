@@ -1,0 +1,12 @@
+body{
+  background-color: lightblue;
+}
+
+.name{ text-align: center;
+}
+
+.efimg {
+  margin: auto;
+  width: 25%;
+  height: 40%;
+}
