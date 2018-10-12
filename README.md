@@ -1,4 +1,4 @@
-# _Football blog_
+# _First solo project_
 
 #### _single Webpage for Epicodus, 10.10.2018_
 
