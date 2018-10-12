@@ -30,4 +30,4 @@ _Contact Edin Filipovic - edin.filipovic89@gmail.com_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **_Edin Filipovic**
+Copyright (c) 2018 **_Edin Filipovic_**
