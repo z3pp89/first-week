@@ -10,7 +10,7 @@ _First solo project_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository: https://github.com/z3pp89/first-week.git_
+* _Clone this repository: https://z3pp89.github.io/first-week/_
 
 ## Support and contact details
 
