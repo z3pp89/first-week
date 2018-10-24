@@ -10,10 +10,7 @@ _First solo project_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:_   
-* _python -m SimpleHTTPServer_
-* _Then open your web browser of choice to localhost:8000_
+* _Clone this repository: https://github.com/z3pp89/first-week.git_
 
 ## Support and contact details
 
